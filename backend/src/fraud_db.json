@@ -1,0 +1,24 @@
+[
+    {
+        "userName": "Walter White",
+        "securityIdentifier": "10000",
+        "cardEnding": "1212",
+        "transactionName": "ABC Industry",
+        "transactionAmount": "$450.00",
+        "transactionTime": "2:30 AM EST",
+        "transactionSource": "driems.com",
+        "case_status": "confirmed_fraud",
+        "notes": "User initially confirmed, then corrected themselves, stating the transaction was not theirs."
+    },
+    {
+        "userName": "KaKi",
+        "securityIdentifier": "90000",
+        "cardEnding": "1122",
+        "transactionName": "Unknown Crypto Exchange",
+        "transactionAmount": "$2,100.00",
+        "transactionTime": "4:15 AM PST",
+        "transactionSource": "online_transfer",
+        "case_status": "pending_review",
+        "notes": "Automated flag: Unusual location."
+    }
+]
