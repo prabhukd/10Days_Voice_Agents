@@ -1,0 +1,32 @@
+{
+    "order_id": "20251128105748",
+    "timestamp": "2025-11-28T10:57:48.817423",
+    "customer_info": {
+        "name": "Walter White",
+        "address": "Mumbai"
+    },
+    "items": [
+        {
+            "item_name": "Whole Wheat Bread",
+            "quantity": 1,
+            "unit_price": 4.5,
+            "line_total": 4.5,
+            "notes": "whole wheat"
+        },
+        {
+            "item_name": "Eggs (dozen)",
+            "quantity": 1,
+            "unit_price": 5.25,
+            "line_total": 5.25,
+            "notes": ""
+        },
+        {
+            "item_name": "Milk (gallon)",
+            "quantity": 1,
+            "unit_price": 3.0,
+            "line_total": 3.0,
+            "notes": ""
+        }
+    ],
+    "order_total": 12.75
+}
