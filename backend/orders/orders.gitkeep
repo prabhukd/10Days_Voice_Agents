@@ -1,0 +1,11 @@
+{
+  "drinkType": "cappuccino",
+  "size": "small",
+  "milk": "oat",
+  "extras": [
+    "caramel"
+  ],
+  "name": "Narendra Modi",
+  "timestamp": "2025-11-23T17:36:13.341688",
+  "session_id": "session_20251123_173613"
+}
